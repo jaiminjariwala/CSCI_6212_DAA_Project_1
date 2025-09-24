@@ -1,6 +1,6 @@
 # Project 1 - Asymptotic Analysis
 
-**Student Name (GWID):** [Jaimin Jariwala (G37418491]  
+**Student Name (GWID):** [Jaimin Jariwala (G37418491)]  
 **Date:** [September 24, 2025]  
 **Author:** [Jaimin Jariwala]  
 
@@ -73,3 +73,4 @@ The $O(n^2)$ time complexity is validated by the experimental results, as the gr
 - The code is implemented in Python, following language conventions (e.g., `execute_loops` function), and includes comments for clarity.
 - The graph was generated using Matplotlib, with data collected from multiple runs to ensure reliability.
 - This README summarizes the project; the full code is available for review by the TA/Professor upon request, as per submission guidelines.
+
