@@ -74,3 +74,7 @@ The $O(n^2)$ time complexity is validated by the experimental results, as the gr
 - The graph was generated using Matplotlib, with data collected from multiple runs to ensure reliability.
 - This README summarizes the project; the full code is available for review by the TA/Professor upon request, as per submission guidelines.
 
+# 📝 Steps to execute the code:
+1. Git clone the repository using ```git clone https://github.com/jaiminjariwala/CSCI_6212_DAA_Project_1.git```
+2. Create a virtual environment using ```python3 -m venv .venv```
+3. Open Terminal and type ```python3 project_1.py``` to execute the code.
